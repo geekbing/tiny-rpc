@@ -1,5 +1,0 @@
-com/geekbing/codec/RpcEncoder.class
-com/geekbing/bean/RpcRequest.class
-com/geekbing/codec/RpcDecoder.class
-com/geekbing/util/SerializationUtil.class
-com/geekbing/bean/RpcResponse.class
